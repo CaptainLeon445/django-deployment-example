@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-#from MyDjango_stuff.fourth_project import fourth_app
+from MyDjango_stuff.fourth_project import fourth_app
 from fourth_app.forms import NewUser
 
 # Create your views here.
