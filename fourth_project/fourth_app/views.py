@@ -1,6 +1,5 @@
 from django.shortcuts import render
 
-from requests import request
 #from MyDjango_stuff.fourth_project import fourth_app
 from fourth_app.forms import NewUser
 
